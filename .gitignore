@@ -1,0 +1,14 @@
+# Large data files
+*.csv
+CSTNET_PCAP/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
