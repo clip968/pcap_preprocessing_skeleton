@@ -1,6 +1,7 @@
 # Large data files
 *.csv
 CSTNET_PCAP/
+res/
 
 # OS generated files
 .DS_Store
